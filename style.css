@@ -1,0 +1,30 @@
+body{
+    background: url(./source/images/bg-1917.jpg);
+    background-size: cover;
+    
+}
+
+.gradient{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.489);
+}
+
+.btn-title{
+    background-color: #772D8B;
+    border-radius: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-size: smaller;
+    font-weight: bold;
+    border: none;
+}
+
+.main-content{
+    background-color: rgba(0, 0, 0, 0.625);
+}
+
+.select-rate{
+    margin-left: 10px;
+    border-radius: 10px;
+}
